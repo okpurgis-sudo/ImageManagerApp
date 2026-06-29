@@ -1,0 +1,54 @@
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+publish/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Database / local app data
+*.db
+*.sqlite
+*.sqlite3
+ebooks.db
+theme.txt
+last_folder.txt
+
+# Installer output
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Test images / personal assets
+TestImages/
+Images/
+Manga/
+Books/
+SampleData/
